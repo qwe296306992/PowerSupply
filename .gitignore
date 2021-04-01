@@ -1,0 +1,10 @@
+#忽略中间文件及二进制文件
+/Project/Listings/
+/Project/Objects/
+/Project/DebugConfig/
+
+#忽略个人用户自动生成文件
+/Project/*.uvguix.*
+/Project/*.uvoptx*
+
+/adcTable/
